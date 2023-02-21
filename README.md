@@ -8,3 +8,6 @@ Avoir un abonnement Azure avec un utilisateur ayant les droits Contributeur ou P
 Il y deux possibilités pour créer un projet<br>
 - l'abonnement n'a pas de projet de migration existant
 - l'abonnement a déjà un ou des projets de migration(s)
+
+-> l'abonnement n'a pas de projet de migration existant
+<img width='800' src='../images/assessment/image_00.png'/><br>
