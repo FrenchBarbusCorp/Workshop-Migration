@@ -26,7 +26,10 @@ Pour naviguer entre projets<br>
 
 ### Découverte avec l'import d'un fichier CSV.
 Récupérez le fichier CSV:<br>
-https://storworkshops.blob.core.windows.net/workshopmigrate/Azure_Migrate_import_template.csv
+https://storworkshops.blob.core.windows.net/workshopmigrate/Azure_Migrate_import_template.csv<br>
+Dans votre projet:<br>
+<img width='800' src='./images/assessment/image_09.png'/><br>
+
 
 
 
