@@ -14,4 +14,5 @@ Il y deux possibilités pour créer un projet<br>
 <img width='800' src='./images/assessment/image_01.png'/><br>
 <img width='800' src='./images/assessment/image_02.png'/><br>
 <img width='800' src='./images/assessment/image_03.png'/><br>
+<img width='800' src='./images/assessment/image_04.png'/><br>
 -> l'abonnement a déjà un ou des projets de migration(s) (option2)<br>
