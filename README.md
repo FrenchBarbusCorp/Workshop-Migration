@@ -41,6 +41,7 @@ Création d'un groupe. Un assessment se fait uniquement depuis un groupe
 <img width='800' src='./images/assessment/image_17.png'/><br>
 <img width='800' src='./images/assessment/image_18.png'/><br>
 <img width='800' src='./images/assessment/image_19.png'/><br>
-
+<img width='800' src='./images/assessment/image_20.png'/><br>
+<img width='800' src='./images/assessment/image_21.png'/><br>
 
 
