@@ -1,0 +1,26 @@
+﻿*Server name,IP addresses,*Cores,*Memory (In MB),*OS name,OS version,OS architecture,CPU utilization percentage,Memory utilization percentage,Network adapters,Network In throughput,Network Out throughput,Boot type,Number of disks,Disk 1 size (In GB),Disk 1 read throughput (MB per second),Disk 1 write throughput (MB per second),Disk 1 read ops (operations per second),Disk 1 write ops (operations per second),Disk 2 size (In GB),Disk 2 read throughput (MB per second),Disk 2 write throughput (MB per second),Disk 2 read ops (operations per second),Disk 2 write ops (operations per second)
+VM001.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,,,,,,,1,128,200,200,200,299,,,,,
+VM002.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,,,,,,,,,,,,,,,,,
+VM003.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,,,,,,,,,,,,,,,,,
+VM004.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,,,,,,,,,,,,,,,,,
+VM005.corp.contoso.com,172.21.12.10;fe80::14ff:fb5b:b729:1ebe,4,4096,Microsoft Windows Server 2016 (64-bit),,,,,,,,,,,,,,,,,,,
+VM006.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,UEFI,1,128,200,200,200,299,128,200,200,200,299
+VM007.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,UEFI,1,128,200,200,200,299,128,200,200,200,299
+VM008.corp.contoso.com,,4,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,UEFI,1,128,200,200,200,299,128,200,200,200,299
+VM009.corp.contoso.com,,4,4096,Red Hat Enterprise Linux 7.1,7.1,x64,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+VM010.corp.contoso.com,172.21.12.8;fe80::14ff:fb5b:b729:1ebd,4,4096,Oracle Linux 7,7.2,x64,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+NAGIOS,172.21.12.11,2,2048,Ubuntu 20.04 LTS,20.04,x64,75,70,2,80,30,BIOS,1,128,200,200,200,299,128,200,200,200,300
+Front00,172.21.12.12,2,2048,Ubuntu 16.04.7 LTS,16.04,x64,30,45,2,40,45,BIOS,2,40,150,150,200,250,128,200,200,200,300
+Front01,172.21.12.13,2,2048,Ubuntu 16.04.7 LTS,16.04,x64,30,45,2,40,45,BIOS,2,40,150,150,200,250,128,200,200,200,300
+Front02,172.21.12.14,2,2048,Ubuntu 16.04.7 LTS,16.04,x64,30,45,2,40,45,BIOS,2,40,150,150,200,250,128,200,200,200,300
+Front03,172.21.12.15,2,2048,Ubuntu 16.04.7 LTS,16.04,x64,30,45,2,40,45,BIOS,2,40,150,150,200,250,128,200,200,200,300
+API00,172.21.12.16,4,4096,Red Hat Enterprise Linux 7.1,7.1,x64,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+DBPostgreSQL,172.21.12.20,8,32768,Ubuntu 20.04 LTS,20.04,x64,75,70,2,80,30,BIOS,1,128,200,200,200,299,128,200,200,200,300
+DC-01,172.21.12.21,4,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,UEFI,1,128,200,200,200,299,128,200,200,200,299
+DC-02,172.21.12.22,4,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,UEFI,1,128,200,200,200,299,128,200,200,200,299
+SRV-Flile-00,172.21.12.23,2,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+SRV-Flile-01,172.21.12.24,2,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+SRV-Flile-02,172.21.12.25,2,4096,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+SRV-App-00,172.21.12.26,8,8192,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+SRV-App-01,172.21.12.27,8,8192,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
+SRV-App-02,172.21.12.28,8,8192,Microsoft Windows Server 2016 (64-bit),,,50,50,2,50,20,BIOS,1,128,200,200,200,299,128,200,200,200,299
