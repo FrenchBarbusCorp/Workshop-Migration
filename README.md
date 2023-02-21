@@ -20,3 +20,8 @@ Il y deux possibilités pour créer un projet<br>
 <img width='800' src='./images/assessment/image_01.png'/><br>
 <img width='800' src='./images/assessment/image_05.png'/><br>
 <img width='800' src='./images/assessment/image_06.png'/><br>
+<img width='800' src='./images/assessment/image_07.png'/><br><br>
+Pour naviguer entre projets<br>
+<img width='800' src='./images/assessment/image_08.png'/><br>
+
+
