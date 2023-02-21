@@ -29,7 +29,10 @@ Récupérez le fichier CSV:<br>
 https://storworkshops.blob.core.windows.net/workshopmigrate/Azure_Migrate_import_template.csv<br>
 Dans votre projet:<br>
 <img width='800' src='./images/assessment/image_09.png'/><br>
-
+<img width='800' src='./images/assessment/image_10.png'/><br>
+<img width='800' src='./images/assessment/image_11.png'/><br>
+<img width='800' src='./images/assessment/image_12.png'/><br>
+<img width='800' src='./images/assessment/image_13.png'/><br>
 
 
 
