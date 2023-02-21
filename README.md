@@ -22,7 +22,10 @@ Il y deux possibilités pour créer un projet<br>
 <img width='800' src='./images/assessment/image_06.png'/><br>
 <img width='800' src='./images/assessment/image_07.png'/><br><br>
 Pour naviguer entre projets<br>
-<img width='800' src='./images/assessment/image_08.png'/><br>
+<img width='800' src='./images/assessment/image_08.png'/><br><br>
 
+### Découverte avec l'import d'un fichier CSV.
+Récuérez le fichier CSV:<br>
+https://storworkshops.blob.core.windows.net/workshopmigrate/Azure Migrate import template.csv
 
 
