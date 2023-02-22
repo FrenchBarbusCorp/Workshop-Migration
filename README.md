@@ -68,4 +68,9 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_38.png'/><br>
 <img width='800' src='./images/assessment/image_39.png'/><br>
 <img width='800' src='./images/assessment/image_40.png'/><br>
-<img width='800' src='./images/assessment/image_41.png'/><br>
+<img width='800' src='./images/assessment/image_41.png'/><br><br>
+
+### Exportation de l'assessment
+<img width='800' src='./images/assessment/image_42.png'/><br>
+<img width='800' src='./images/assessment/image_43.png'/><br>
+<img width='800' src='./images/assessment/image_44.png'/><br>
