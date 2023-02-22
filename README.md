@@ -50,7 +50,7 @@ Revenir à la racime du projet<br>
 ### Création d'un assessment.
 <img width='800' src='./images/assessment/image_23.png'/><br>
 <img width='800' src='./images/assessment/image_24.png'/><br>
-<img width='800' src='./images/assessment/image_25.png'/><br>
+<img width='800' src='./images/assessment/image_25_0.png'/><br>
 <img width='800' src='./images/assessment/image_26.png'/><br>
 <img width='800' src='./images/assessment/image_27.png'/><br>
 <img width='800' src='./images/assessment/image_28.png'/><br>
