@@ -93,3 +93,10 @@ Observer toutes les options:<br>
 <img width='800' src='./images/assessment/image_42.png'/><br>
 <img width='800' src='./images/assessment/image_43.png'/><br>
 <img width='800' src='./images/assessment/image_44.png'/><br>
+
+### A vous de jouer !!!
+- Créer un nouveau groupe (VM006,VM007,VM008,VM009,VM010,NAGIOS)
+- Faire un assessment
+- Exporter l'assessment
+
+### Fin du Lab
