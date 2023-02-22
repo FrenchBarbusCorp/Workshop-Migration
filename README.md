@@ -4,6 +4,12 @@ L'objectif de ce Lab , c'est d'effectuer un assessment à partir d'un fichier CS
 Documentations: https://learn.microsoft.com/fr-fr/azure/migrate/migrate-services-overview
 ## Pré-requis
 Avoir un abonnement Azure avec un utilisateur ayant les droits Contributeur ou Propriétaire dans l’abonnement pour créer un projet.
+### Etape du Lab
+- Import du fichier CSV
+- Création d'un groupe d'une application
+- Création d'un assessment
+- Modification de l'assessment avec de nouveaux critères
+- Export de l'assessment dans un fichier Excel
 ### Création d'un projet
 Il y deux possibilités pour créer un projet<br>
 - l'abonnement n'a pas de projet de migration existant
