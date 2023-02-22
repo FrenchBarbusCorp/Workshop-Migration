@@ -38,7 +38,8 @@ Dans votre projet:<br>
 <img width='800' src='./images/assessment/image_10.png'/><br>
 <img width='800' src='./images/assessment/image_11.png'/><br>
 <img width='800' src='./images/assessment/image_12.png'/><br>
-<img width='800' src='./images/assessment/image_13.png'/><br><br>
+<img width='800' src='./images/assessment/image_13.png'/><br>
+Télécharger les "errors details.CSV" et voir les erreurs dans la colone "Machine Warning"<br><br>
 
 ### Création d'un groupe.
 Un assessment se fait uniquement depuis un groupe<br>
@@ -60,6 +61,7 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_26.png'/><br>
 <img width='800' src='./images/assessment/image_27.png'/><br>
 <img width='800' src='./images/assessment/image_28.png'/><br>
+Observer toutes les options:<br>
 <img width='800' src='./images/assessment/image_29.png'/><br>
 <img width='800' src='./images/assessment/image_30.png'/><br>
 <img width='800' src='./images/assessment/image_31.png'/><br>
