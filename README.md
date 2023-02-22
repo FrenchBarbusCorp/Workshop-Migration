@@ -45,9 +45,12 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_19.png'/><br>
 <img width='800' src='./images/assessment/image_20.png'/><br>
 <img width='800' src='./images/assessment/image_21.png'/><br>
-<img width='800' src='./images/assessment/image_22.png'/><br>
+<img width='800' src='./images/assessment/image_22.png'/><br><br>
+
+### Création d'un assessment.
 <img width='800' src='./images/assessment/image_23.png'/><br>
 <img width='800' src='./images/assessment/image_24.png'/><br>
+
 
 
 
