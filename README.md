@@ -62,6 +62,17 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_27.png'/><br>
 <img width='800' src='./images/assessment/image_28.png'/><br>
 Observer toutes les options:<br>
+- Location
+- Storage type
+- Saving option
+- Sizing
+- VM
+- Comfort factor
+- Pricing
+- Currency
+- Discount
+- VM uptime
+- ...
 <img width='800' src='./images/assessment/image_29.png'/><br>
 <img width='800' src='./images/assessment/image_30.png'/><br>
 <img width='800' src='./images/assessment/image_31.png'/><br>
