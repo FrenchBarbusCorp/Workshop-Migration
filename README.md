@@ -36,7 +36,7 @@ Dans votre projet:<br>
 
 ### Création d'un groupe.
 Un assessment se fait uniquement depuis un groupe<br>
-Revenir a la racime du projet<br>
+Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_14.png'/><br>
 <img width='800' src='./images/assessment/image_15.png'/><br>
 <img width='800' src='./images/assessment/image_16.png'/><br><br>
