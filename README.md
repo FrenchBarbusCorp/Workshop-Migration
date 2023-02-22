@@ -39,11 +39,15 @@ Un assessment se fait uniquement depuis un groupe<br>
 Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_14.png'/><br>
 <img width='800' src='./images/assessment/image_15.png'/><br>
-<img width='800' src='./images/assessment/image_16.png'/><br><br>
+<img width='800' src='./images/assessment/image_16.png'/><br>
 <img width='800' src='./images/assessment/image_17.png'/><br>
 <img width='800' src='./images/assessment/image_18.png'/><br>
 <img width='800' src='./images/assessment/image_19.png'/><br>
 <img width='800' src='./images/assessment/image_20.png'/><br>
 <img width='800' src='./images/assessment/image_21.png'/><br>
+<img width='800' src='./images/assessment/image_22.png'/><br>
+<img width='800' src='./images/assessment/image_23.png'/><br>
+<img width='800' src='./images/assessment/image_24.png'/><br>
+
 
 
