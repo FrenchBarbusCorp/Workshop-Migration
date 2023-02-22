@@ -55,5 +55,9 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_27.png'/><br>
 <img width='800' src='./images/assessment/image_28.png'/><br>
 <img width='800' src='./images/assessment/image_29.png'/><br>
-
-
+<img width='800' src='./images/assessment/image_30.png'/><br>
+<img width='800' src='./images/assessment/image_31.png'/><br>
+<img width='800' src='./images/assessment/image_32.png'/><br>
+<img width='800' src='./images/assessment/image_33.png'/><br>
+<img width='800' src='./images/assessment/image_34.png'/><br>
+<img width='800' src='./images/assessment/image_35.png'/><br>
