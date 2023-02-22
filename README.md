@@ -4,7 +4,7 @@ L'objectif de ce Lab , c'est d'effectuer un assessment à partir d'un fichier CS
 Documentations: https://learn.microsoft.com/fr-fr/azure/migrate/migrate-services-overview
 ## Pré-requis
 Avoir un abonnement Azure avec un utilisateur ayant les droits Contributeur ou Propriétaire dans l’abonnement pour créer un projet.
-### Etape du Lab
+## Etapes du Lab
 - Import du fichier CSV
 - Création d'un groupe d'une application
 - Création d'un assessment
