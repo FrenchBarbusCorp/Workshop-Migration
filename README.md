@@ -62,4 +62,10 @@ Revenir à la racime du projet<br>
 <img width='800' src='./images/assessment/image_34.png'/><br>
 <img width='800' src='./images/assessment/image_35_0.png'/><br>
 <img width='800' src='./images/assessment/image_36.png'/><br>
-<img width='800' src='./images/assessment/image_37.png'/><br>
+<img width='800' src='./images/assessment/image_37.png'/><br><br>
+
+### Modification et configuration de l'assessment
+<img width='800' src='./images/assessment/image_38.png'/><br>
+<img width='800' src='./images/assessment/image_39.png'/><br>
+<img width='800' src='./images/assessment/image_40.png'/><br>
+<img width='800' src='./images/assessment/image_41.png'/><br>
